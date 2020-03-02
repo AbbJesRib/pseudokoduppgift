@@ -5,3 +5,4 @@ Man multiplicerar resultatet med 3 för att få fram antalet burkar från trepac
 Sedan dividerar man resten (17 kr) med priset på en burk för att ta reda på resten, och lägger till det i variabeln man skapade i början.
 
 Då har man svaret.
+ 
